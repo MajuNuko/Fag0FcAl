@@ -2,7 +2,7 @@ local Settings = {
     AimLock = {
         Enabled = true,
         Aimlockkey = "e",
-        Prediction = 0.13210429,
+        Prediction = 0.1343,
         Aimpart = 'HumanoidRootPart',
         Notifications = true
     },
